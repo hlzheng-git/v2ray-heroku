@@ -3,7 +3,7 @@
 **推荐使用最新的：<https://github.com/ygcaicn/Xray-heroku>**
 
 点击下面按钮部署：
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/hlzheng-git/ygcaicnv2ku)
 - - -
 - - -
 
